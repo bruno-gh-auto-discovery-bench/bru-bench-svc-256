@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ledger-branch-only",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
